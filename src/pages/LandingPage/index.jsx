@@ -3,7 +3,7 @@ import React from "react";
 function LandingPage() {
   return (
     <a href="/dashboard">
-      <div className="bg-primary h-screen flex flex-col justify-center items-center">
+      <div className="bg-primary-green h-screen flex flex-col justify-center items-center">
         <h1 className="add-motion text-white font-bold text-5xl ">
           Simple <br />
           Quicks
