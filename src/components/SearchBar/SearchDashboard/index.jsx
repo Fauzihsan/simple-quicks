@@ -1,6 +1,6 @@
 import React from "react";
 
-function SearcBar() {
+function SearcBarDashboard() {
   return (
     <form className="bg-primary-lightgray w-full flex gap-2 p-3">
       <svg width="24" height="21" viewBox="0 0 32 31" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -16,4 +16,4 @@ function SearcBar() {
   );
 }
 
-export default SearcBar;
+export default SearcBarDashboard;
